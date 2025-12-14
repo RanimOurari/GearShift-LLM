@@ -15,9 +15,14 @@ This project studies GearShift LLM, a dynamic serving strategy that improves sca
 ## Methodology
 The workflow follows a systems modeling pipeline:
 
--Offline latency measurement
--Statistical service-time modeling
--Predictive queueing analysis
--Online simulation of dynamic policies
--Optimization and policy selection
--Validation and visualization of trade-offs
+-Offline latency measurement.
+
+-Statistical service-time modeling.
+
+-Predictive queueing analysis.
+
+-Online simulation of dynamic policies.
+
+-Optimization and policy selection.
+
+-Validation and visualization of trade-offs.
